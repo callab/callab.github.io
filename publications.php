@@ -53,7 +53,7 @@
 
                 <li class="nav-item dropdown menu-large"><a href="contact.html">Contact Us<b class="caret"></b></a> </li>
 
-                <li class="nav-item dropdown menu-large" id = "selected"><a href="publications.php?bib=citations.bib&all">Publications<b class="caret"></b></a> </li>
+                <li class="nav-item dropdown menu-large" id = "selected"><a href="https://callab.uchicago.edu/publications.php?all&bib=citations.bib">Publications<b class="caret"></b></a> </li>
 
                 <li class="nav-item dropdown menu-large"><a href="https://github.com/callab/"><b class="fa fa-github" style="font-size:1.3em;"></b></a> </li>
 
@@ -75,8 +75,8 @@
               <div class="heading">
                 <h2>Publications
               </div>
-              <a href="publications.php?all&bib=citations.bib">[all publications]</a>
-              <a href="publications.php?type=article&bib=citations.bib">[refereed journal articles only]</a></h>
+              <a href="https://callab.uchicago.edu/publications.php?all&bib=citations.bib">[all publications]</a>
+              <a href="https://callab.uchicago.edu/publications.php?type=article&bib=citations.bib">[refereed journal articles only]</a></h>
           <br>
           <br>
           <?php include 'bibtexbrowser.php';?>
