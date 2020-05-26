@@ -5,7 +5,7 @@
 // Overview: (i) Parameters (ii) Helper Functions (iii) Control Flow
 
 // ---------------- PARAMETERS ------------------
-const fsLibrary = require("fs")
+// const fsLibrary = require("fs")
 const outFile = "foregroundingv1.csv"
 
 var numtrials = 4;
@@ -314,12 +314,11 @@ var experiment = {
 		dataforRound += "," + experiment.targetpos + "," + experiment.targetside + "," + experiment.chosenside;
 		dataforRound += "," + experiment.sidesmatchorder + "," + experiment.targetnamefirst + "," + experiment.distractorname;
 		dataforRound += "\n";
-		// $.post("https://callab.uchicago.edu/experiments/foregrounding-backgrounding/datasave.php", {postresult_string : dataforRound});
-		fsLibrary.writeFile(outFile, dataforRound, (error) => {
-    // In case of a error throw err exception.
-    	if (error) throw err;
-		})
-)
+		// // $.post("https://callab.uchicago.edu/experiments/foregrounding-backgrounding/datasave.php", {postresult_string : dataforRound});
+		// fsLibrary.writeFile(outFile, dataforRound, (error) => {
+    // // In case of a error throw err exception.
+    // 	if (error) throw err;
+		// })
 
 	},
 
@@ -517,10 +516,10 @@ var experiment = {
 		// put column headers in data file
 		var coltitles = "subid, subage, version, counter, mod, targetname, response, chosetarget, targetnamecheck, modifier, date, timestamp,rtsearch, targetpos,targetside,chosenside,sidesmatchorder,targetnamefirst,distractorname \n";
 		// $.post("https://callab.uchicago.edu/experiments/foregrounding-backgrounding/datasave.php", {postresult_string : coltitles});
-		fsLibrary.writeFile(outFile, coltitles, (error) => {
-    // In case of a error throw err exception.
-    	if (error) throw err;
-		})
+		// fsLibrary.writeFile(outFile, coltitles, (error) => {
+    // // In case of a error throw err exception.
+    // 	if (error) throw err;
+		// })
 
 
 	 	//for ipad version to prevent scrolling
