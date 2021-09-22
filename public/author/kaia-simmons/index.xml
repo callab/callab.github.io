@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kaia Simmons | The Communication and Learning Lab</title>
+    <link>callab.github.io/author/kaia-simmons/</link>
+      <atom:link href="callab.github.io/author/kaia-simmons/index.xml" rel="self" type="application/rss+xml" />
+    <description>Kaia Simmons</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Dan Yurovsky</copyright><lastBuildDate>Tue, 01 Jan 2013 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/callab.github.io/media/logo_huc2517490b6a9279dc52c76dcdc6b069d_40168_300x300_fit_lanczos_3.png</url>
+      <title>Kaia Simmons</title>
+      <link>callab.github.io/author/kaia-simmons/</link>
+    </image>
+    
+    <item>
+      <title>Developmental and postural changes in children&#39;s visual access to faces</title>
+      <link>callab.github.io/publication/frank-2013-developmental/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>callab.github.io/publication/frank-2013-developmental/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Developmental and postural changes in children&#39;s visual access to faces</title>
+      <link>callab.github.io/publication_old/frank-2013-developmental/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>callab.github.io/publication_old/frank-2013-developmental/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

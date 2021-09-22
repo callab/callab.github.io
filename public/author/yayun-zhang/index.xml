@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yayun Zhang | The Communication and Learning Lab</title>
+    <link>callab.github.io/author/yayun-zhang/</link>
+      <atom:link href="callab.github.io/author/yayun-zhang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yayun Zhang</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Dan Yurovsky</copyright><lastBuildDate>Thu, 01 Jan 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/callab.github.io/media/logo_huc2517490b6a9279dc52c76dcdc6b069d_40168_300x300_fit_lanczos_3.png</url>
+      <title>Yayun Zhang</title>
+      <link>callab.github.io/author/yayun-zhang/</link>
+    </image>
+    
+    <item>
+      <title>Statistical word learning is a continuous process: Evidence from the human simulation paradigm</title>
+      <link>callab.github.io/publication/zhang-2015-statistical/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>callab.github.io/publication/zhang-2015-statistical/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Statistical word learning is a continuous process: Evidence from the human simulation paradigm</title>
+      <link>callab.github.io/publication_old/zhang-2015-statistical/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>callab.github.io/publication_old/zhang-2015-statistical/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

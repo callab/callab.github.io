@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sarah Case | The Communication and Learning Lab</title>
+    <link>callab.github.io/author/sarah-case/</link>
+      <atom:link href="callab.github.io/author/sarah-case/index.xml" rel="self" type="application/rss+xml" />
+    <description>Sarah Case</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Dan Yurovsky</copyright><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/callab.github.io/media/logo_huc2517490b6a9279dc52c76dcdc6b069d_40168_300x300_fit_lanczos_3.png</url>
+      <title>Sarah Case</title>
+      <link>callab.github.io/author/sarah-case/</link>
+    </image>
+    
+    <item>
+      <title>Preschoolers flexibly adapt to linguistic input in a noisy channel</title>
+      <link>callab.github.io/publication/yurovsky-2017-preschoolers/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>callab.github.io/publication/yurovsky-2017-preschoolers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Preschoolers flexibly adapt to linguistic input in a noisy channel</title>
+      <link>callab.github.io/publication_old/yurovsky-2017-preschoolers/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>callab.github.io/publication_old/yurovsky-2017-preschoolers/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

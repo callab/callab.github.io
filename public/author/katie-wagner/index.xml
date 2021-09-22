@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Katie Wagner | The Communication and Learning Lab</title>
+    <link>callab.github.io/author/katie-wagner/</link>
+      <atom:link href="callab.github.io/author/katie-wagner/index.xml" rel="self" type="application/rss+xml" />
+    <description>Katie Wagner</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Dan Yurovsky</copyright><lastBuildDate>Thu, 01 Jan 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/callab.github.io/media/logo_huc2517490b6a9279dc52c76dcdc6b069d_40168_300x300_fit_lanczos_3.png</url>
+      <title>Katie Wagner</title>
+      <link>callab.github.io/author/katie-wagner/</link>
+    </image>
+    
+    <item>
+      <title>Signatures of domain-general categorization mechanisms in color word learning</title>
+      <link>callab.github.io/publication/yurovsky-2015-signatures/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>callab.github.io/publication/yurovsky-2015-signatures/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Signatures of domain-general categorization mechanisms in color word learning</title>
+      <link>callab.github.io/publication_old/yurovsky-2015-signatures/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>callab.github.io/publication_old/yurovsky-2015-signatures/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
