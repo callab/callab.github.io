@@ -1,10 +1,10 @@
-name: github pages
+name: hugo publish
 
 on:
   push:
     branches:
-      - main  # Set a branch to deploy
-
+    - master
+    
 jobs:
   deploy:
     runs-on: ubuntu-20.04
