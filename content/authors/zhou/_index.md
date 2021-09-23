@@ -10,12 +10,14 @@ role: Graduate Student
 
 weight: 6
 
+website: https://www.zhouyouchen.me
+
 long_bio: Yuchen is a second-year PhD student in Psychology at Carnegie Mellon University advised by Dan Yurovsky. He is primarily interested in language acquisition, concept categorization, and distributional semantics.
 
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'zhouyuchen@cmu.edu'
+  link: 'mailto:zhouyuchen@cmu.edu'
 - icon: github
   icon_pack: fab
   link: https://github.com/flamingozh
