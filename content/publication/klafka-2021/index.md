@@ -35,4 +35,6 @@ publication_types:
 abstract: ''
 publication: '*Entropy*'
 repository: 'https://github.com/jklafka/language-modeling'
+volume: '*3*'
+pages: 1300
 ---
