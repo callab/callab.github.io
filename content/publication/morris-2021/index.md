@@ -10,7 +10,7 @@ authors:
 - Daniel Yurovsky
 tags: []
 categories: []
-date: under review-01-01
+date: in revision-01-01
 lastmod: 2021-10-28T14:47:47-04:00
 featured: false
 draft: false
@@ -30,7 +30,7 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 publishDate: '2021-10-28T18:47:47.568393Z'
-publication_date: under review
+publication_date: in revision
 publication_types:
 - '2'
 abstract: ''
